@@ -49,3 +49,5 @@
 ;; ...Or *all* packages (NOT RECOMMENDED; will likely break things)
 ;(unpin! t)
 ;;(package! doom-monokai-classic)
+(package! typescript-mode)
+(package! vue-mode)
