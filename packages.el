@@ -51,3 +51,4 @@
 ;;(package! doom-monokai-classic)
 (package! typescript-mode)
 (package! vue-mode)
+(package! protobuf-mode)
